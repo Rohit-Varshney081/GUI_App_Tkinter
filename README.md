@@ -1,2 +1,2 @@
 # GUI_App_Tkinter
-GUI Application Using Python Tkinter
+ <p style="text-align: center;">Text_content</p>
